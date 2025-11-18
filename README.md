@@ -59,7 +59,7 @@ cd ..
 mkdir prisma
 cd ..
 ```
-##Fronend
+## Fronend
 ```
 mkdir frontend
 ```
