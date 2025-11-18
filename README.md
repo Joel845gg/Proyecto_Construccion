@@ -47,10 +47,17 @@ cd cafeteria-latacunga
 ```
 mkdir backend
 cd backend
-mkdir src prisma
+mkdir src
 cd src
-mkdir controllers middlewares routes socket utils config
-cd ../..
+mkdir controllers
+mkdir middlewares
+mkdir routes
+mkdir socket
+mkdir utils
+mkdir config
+cd ..
+mkdir prisma
+cd ..
 ```
 ##Fronend
 ```
